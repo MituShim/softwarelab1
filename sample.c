@@ -8,5 +8,6 @@ int main()
    int c;
    c=a+b;
    print("%d",c);
+   print("this is the first code upload in github");
    return 0;
 }
